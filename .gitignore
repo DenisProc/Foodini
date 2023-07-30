@@ -7,6 +7,14 @@
 /.idea/workspace.xml
 /.idea/navEditor.xml
 /.idea/assetWizardSettings.xml
+/.idea/.gitignore
+/.idea/compiler.xml
+/.idea/gradle.xml
+/.idea/kotlinc.xml
+/.idea/misc.xml
+/.idea/vcs.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.gitignore
 .DS_Store
 /build
 /captures
